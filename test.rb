@@ -1,3 +1,5 @@
+
+
 a = "test"
 puts a
 
@@ -6,3 +8,8 @@ puts b
 
 c = "test3"
 puts c
+
+d = "test4"
+puts d
+
+
