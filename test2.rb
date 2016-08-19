@@ -4,3 +4,5 @@ puts a1
 puts a2
 
 a ="aaa"
+
+puts a
