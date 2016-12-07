@@ -1,0 +1,4 @@
+gemのinstallでコケる
+gem update
+sudo apt-get install ruby-dev
+
